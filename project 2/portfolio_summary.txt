@@ -1,0 +1,9 @@
+Stock Portfolio Summary
+=======================
+
+AAPL: 40 shares × $180 = $7200
+MSFT: 30 shares × $420 = $12600
+AMZN: 60 shares × $190 = $11400
+GOOGL: 40 shares × $150 = $6000
+
+Total Investment: $37200
