@@ -1,43 +1,24 @@
 # Python Chatbot
 
-A simple command-line chatbot written in Python that can respond to basic greetings and questions.
+A simple command-line chatbot written in Python that responds to basic user messages.
 
 ## Features
 
 - Greets the user
-- Responds to common phrases like:
-  - `hello` / `hi`
-  - `how are you`
-  - `what is your name`
-  - `what can you do`
-  - `thank you` / `thanks`
-  - `help`
-  - `bye` / `goodbye`
-- Continues the conversation until the user says goodbye
+- Responds to "hello" and "hi"
+- Responds to "how are you"
+- Responds to "bye" and "goodbye"
+- Responds to questions about its name
+- Responds to simple questions
+- Continues the conversation until the user exits
 
-## Requirements
+## Technologies Used
 
-- Python 3.x
+- Python
 
 ## How to Run
 
-1. Open a terminal in the project folder.
-2. Run the following command:
+Run the following command in the terminal:
 
 ```bash
 python chatbot.py
-
-Chatbot: Hello! How can I help you?
-You: hello
-Chatbot: Hello! Nice to meet you.
-You: how are you
-Chatbot: I'm doing great! Thanks for asking.
-You: what is your name
-Chatbot: My name is Python Chatbot.
-You: bye
-Chatbot: Goodbye! Have a great day!
-
-project3/
-├── chatbot.py
-└── README.md
-
