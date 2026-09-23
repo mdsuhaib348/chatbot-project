@@ -27,6 +27,7 @@ A simple command-line chatbot written in Python that can respond to basic greeti
 ```bash
 python chatbot.py
 
+### Example Conversation 
 Chatbot: Hello! How can I help you?
 You: hello
 Chatbot: Hello! Nice to meet you.
@@ -37,6 +38,7 @@ Chatbot: My name is Python Chatbot.
 You: bye
 Chatbot: Goodbye! Have a great day!
 
+### Project Structure 
 project3/
 ├── chatbot.py
 └── README.md
